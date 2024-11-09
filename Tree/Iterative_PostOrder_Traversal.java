@@ -13,6 +13,7 @@ class TreeFI{
         Node sixth = new Node(80);
         Node seven = new Node(50);
                 
+                
         root.left = first;
         root.right = second;
         first.left = third;
