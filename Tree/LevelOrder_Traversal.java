@@ -18,6 +18,7 @@ class Tree2{
         root.right.right = new Node(70);
         
         root.right.right.left = new Node(80);   // 80 <-- 70
+        
     }
     
     public void display(){
